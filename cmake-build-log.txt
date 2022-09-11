@@ -1,0 +1,73 @@
+[variant] Loaded new set of variants
+[kit] Successfully loaded 5 kits from C:\Users\inTree\AppData\Local\CMakeTools\cmake-tools-kits.json
+[proc] Executing command: D:\DevelopEnv\msys2\mingw64\bin\gcc.exe -v
+[proc] The command: ninja --version failed with error: Error: spawn ninja ENOENT
+[proc] The command: ninja-build --version failed with error: Error: spawn ninja-build ENOENT
+[main] Configuring folder: cJSON-complex 
+[proc] Executing command: D:\DevelopEnv\CMake\bin\cmake.EXE --no-warn-unused-cli -DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE -DCMAKE_BUILD_TYPE:STRING=Debug -DCMAKE_C_COMPILER:FILEPATH=D:\DevelopEnv\msys2\mingw64\bin\gcc.exe -DCMAKE_CXX_COMPILER:FILEPATH=D:\DevelopEnv\msys2\mingw64\bin\g++.exe -Se:/CSP/C/Repos/cJSON-complex -Be:/CSP/C/Repos/cJSON-complex/build -G "Unix Makefiles"
+[cmake] Not searching for unused variables given on the command line.
+[cmake] -- The C compiler identification is GNU 12.1.0
+[cmake] -- Detecting C compiler ABI info
+[cmake] -- Detecting C compiler ABI info - done
+[cmake] -- Check for working C compiler: D:/DevelopEnv/msys2/mingw64/bin/gcc.exe - skipped
+[cmake] -- Detecting C compile features
+[cmake] -- Detecting C compile features - done
+[cmake] -- Performing Test FLAG_SUPPORTED_stdc89
+[cmake] -- Performing Test FLAG_SUPPORTED_stdc89 - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_pedantic
+[cmake] -- Performing Test FLAG_SUPPORTED_pedantic - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wall
+[cmake] -- Performing Test FLAG_SUPPORTED_Wall - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wextra
+[cmake] -- Performing Test FLAG_SUPPORTED_Wextra - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Werror
+[cmake] -- Performing Test FLAG_SUPPORTED_Werror - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wstrictprototypes
+[cmake] -- Performing Test FLAG_SUPPORTED_Wstrictprototypes - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wwritestrings
+[cmake] -- Performing Test FLAG_SUPPORTED_Wwritestrings - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wshadow
+[cmake] -- Performing Test FLAG_SUPPORTED_Wshadow - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Winitself
+[cmake] -- Performing Test FLAG_SUPPORTED_Winitself - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wcastalign
+[cmake] -- Performing Test FLAG_SUPPORTED_Wcastalign - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wformat2
+[cmake] -- Performing Test FLAG_SUPPORTED_Wformat2 - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wmissingprototypes
+[cmake] -- Performing Test FLAG_SUPPORTED_Wmissingprototypes - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wstrictoverflow2
+[cmake] -- Performing Test FLAG_SUPPORTED_Wstrictoverflow2 - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wcastqual
+[cmake] -- Performing Test FLAG_SUPPORTED_Wcastqual - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wundef
+[cmake] -- Performing Test FLAG_SUPPORTED_Wundef - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wswitchdefault
+[cmake] -- Performing Test FLAG_SUPPORTED_Wswitchdefault - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wconversion
+[cmake] -- Performing Test FLAG_SUPPORTED_Wconversion - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wccompat
+[cmake] -- Performing Test FLAG_SUPPORTED_Wccompat - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_fstackprotectorstrong
+[cmake] -- Performing Test FLAG_SUPPORTED_fstackprotectorstrong - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wcomma
+[cmake] -- Performing Test FLAG_SUPPORTED_Wcomma - Failed
+[cmake] -- Performing Test FLAG_SUPPORTED_Wdoublepromotion
+[cmake] -- Performing Test FLAG_SUPPORTED_Wdoublepromotion - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wparentheses
+[cmake] -- Performing Test FLAG_SUPPORTED_Wparentheses - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wformatoverflow
+[cmake] -- Performing Test FLAG_SUPPORTED_Wformatoverflow - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wunusedmacros
+[cmake] -- Performing Test FLAG_SUPPORTED_Wunusedmacros - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_Wmissingvariabledeclarations
+[cmake] -- Performing Test FLAG_SUPPORTED_Wmissingvariabledeclarations - Failed
+[cmake] -- Performing Test FLAG_SUPPORTED_Wusedbutmarkedunused
+[cmake] -- Performing Test FLAG_SUPPORTED_Wusedbutmarkedunused - Failed
+[cmake] -- Performing Test FLAG_SUPPORTED_Wswitchenum
+[cmake] -- Performing Test FLAG_SUPPORTED_Wswitchenum - Success
+[cmake] -- Performing Test FLAG_SUPPORTED_fvisibilityhidden
+[cmake] -- Performing Test FLAG_SUPPORTED_fvisibilityhidden - Success
+[cmake] -- Configuring done
+[cmake] -- Generating done
+[cmake] -- Build files have been written to: E:/CSP/C/Repos/cJSON-complex/build
